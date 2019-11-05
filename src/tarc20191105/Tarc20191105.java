@@ -16,7 +16,7 @@ public class Tarc20191105 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello TARUC 20191105");
+        System.out.println("Hello TARUC 20191105.");
     }
     
 }
